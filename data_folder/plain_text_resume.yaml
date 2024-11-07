@@ -4,12 +4,9 @@ personal_information:
   date_of_birth: "05/21/1997"
   country: "Canada"
   city: "Toronto"
-  address: "[Your Address]"
-  zip_code: "[Your zip code]"
   phone_prefix: "+1"
   phone: "7096976883"
   email: "ariqbal@mun.ca"
-  github: "[Your GitHub Profile URL]"
   linkedin: "https://www.linkedin.com/in/rahiim-iqbal/"
 
 education_details:
@@ -19,111 +16,31 @@ education_details:
     final_evaluation_grade: "[Your Final Evaluation Grade]"
     start_date: "2016"
     year_of_completion: "2021"
-    exam:
-      exam_name_1: "[Grade]"
-      exam_name_2: "[Grade]"
-      exam_name_3: "[Grade]"
-      exam_name_4: "[Grade]"
-      exam_name_5: "[Grade]"
-      exam_name_6: "[Grade]"
-
-experience_details:
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
-    key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
-    skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
-
-  - position: "[Your Position]"
-    company: "[Company Name]"
-    employment_period: "[Employment Period]"
-    location: "[Location]"
-    industry: "[Industry]"
-    key_responsibilities:
-      - responsibility_1: "[Responsibility Description]"
-      - responsibility_2: "[Responsibility Description]"
-      - responsibility_3: "[Responsibility Description]"
-    skills_acquired:
-      - "[Skill]"
-      - "[Skill]"
-      - "[Skill]"
-
-projects:
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-  - name: "[Project Name]"
-    description: "[Project Description]"
-    link: "[Project Link]"
-
-achievements:
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-  - name: "[Achievement Name]"
-    description: "[Achievement Description]"
-
-certifications:
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
-  - name: "[Certification Name]"
-    description: "[Certification Description]"
-
-languages:
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language]"
-    proficiency: "[Proficiency Level]"
-
-interests:
-  - "[Interest]"
-  - "[Interest]"
-  - "[Interest]"
-
-availability:
-  notice_period: "[Notice Period]"
-
-salary_expectations:
-  salary_range_usd: "[Salary Range]"
-
-self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Yes/No]"
-  disability: "[Yes/No]"
-  ethnicity: "[Ethnicity]"
+  
 
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
+  eu_work_authorization: "No"
+  us_work_authorization: "No"
   requires_us_visa: "No"
   requires_us_sponsorship: "Yes"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "No"
   legally_allowed_to_work_in_us: "No"
-  requires_eu_sponsorship: "[Yes/No]"
+  requires_eu_sponsorship: "Yes"
   canada_work_authorization: "Yes"
   requires_canada_visa: "No"
   legally_allowed_to_work_in_canada: "Yes"
   requires_canada_sponsorship: "No"
-  uk_work_authorization: "[Yes/No]"
-  requires_uk_visa: "[Yes/No]"
-  legally_allowed_to_work_in_uk: "[Yes/No]"
-  requires_uk_sponsorship: "[Yes/No]"
+  uk_work_authorization: "No"
+  requires_uk_visa: "No"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "No"
 
 
 work_preferences:
   remote_work: "Yes"
-  in_person_work: "[Yes/No]"
+  in_person_work: "Yes"
   open_to_relocation: "Yes"
   willing_to_complete_assessments: "Yes"
   willing_to_undergo_drug_tests: "Yes"
