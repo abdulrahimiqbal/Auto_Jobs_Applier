@@ -4,6 +4,8 @@ personal_information:
   date_of_birth: "05/21/1997"
   country: "Canada"
   city: "Toronto"
+  address: ""
+  zip_code: ""
   phone_prefix: "+1"
   phone: "7096976883"
   email: "ariqbal@mun.ca"
@@ -13,11 +15,106 @@ education_details:
   - education_level: "Bachelor's Degree"
     institution: "Memorial University of Newfoundland"
     field_of_study: "Mechanical Engineering"
-    final_evaluation_grade: "[Your Final Evaluation Grade]"
+    final_evaluation_grade: "A"
     start_date: "2016"
     year_of_completion: "2021"
-  
 
+experience_details:
+  - position: "Operations Manager I (Launch Operations)"
+    company: "Amazon"
+    employment_period: "June 2021 - Sep 2024"
+    location: "Canada"
+    industry: "E-commerce and Robotics"
+    key_responsibilities:
+      - responsibility_1: "Planned and executed launch operations for Canada's most advanced Amazon Robotics facilities."
+      - responsibility_2: "Collaborated with cross-functional teams to identify and prioritize key product features and managed their development from concept to launch."
+      - responsibility_3: "Led implementations with engineering to design and improve hardware components of Amazon Robotics systems."
+    skills_acquired:
+      - "Project Management"
+      - "Cross-functional Collaboration"
+      - "Robotics Systems Implementation"
+
+  - position: "Core Automation Vision PM Intern"
+    company: "Tesla"
+    employment_period: "February 2020 - June 2020"
+    location: "Canada"
+    industry: "Supply Chain Automation"
+    key_responsibilities:
+      - responsibility_1: "Established a team to execute a technical, quantum computing project."
+      - responsibility_2: "Developed plans, timelines, and roadmaps for the project with phases and milestones."
+      - responsibility_3: "Launched a vision project for annual savings and implemented vision quality inspection systems for Tesla Model Y production line."
+    skills_acquired:
+      - "Project Planning"
+      - "Roadmap Development"
+      - "Quality Inspection Systems"
+
+  - position: "Planning Engineering Student"
+    company: "Hatch"
+    employment_period: "September 2020 - January 2021"
+    location: "Canada"
+    industry: "Engineering Consultancy"
+    key_responsibilities:
+      - responsibility_1: "Assisted in forecasting and preventing a bed space crunch at a remote mining site."
+      - responsibility_2: "Executed a $12M Floating Hotel contract and represented Hatch on site."
+      - responsibility_3: "Managed student projects during database migration and implemented cost-saving procedures."
+    skills_acquired:
+      - "Forecasting"
+      - "Contract Execution"
+      - "Process Improvement"
+
+projects:
+  - name: "Amazon Robotics Fulfillment Center Launches"
+    description: "Led the launch of Amazon Robotics facilities including YOW3, YHM1, DET3."
+    link: ""
+
+  - name: "Tesla Model Y Launch Team"
+    description: "Implemented vision quality inspection systems for Tesla’s Model Y production line."
+    link: ""
+
+  - name: "SpaceX Paradigm Hyperloop Pod Competition"
+    description: "Ranked second globally in SpaceX's Hyperloop competition."
+    link: ""
+
+  - name: "Olympus Mars Airlock Design"
+    description: "Designed a functional airlock concept for Olympus Mars exploration project."
+    link: ""
+
+achievements:
+  - name: "SpaceX Paradigm Hyperloop Pod Competition"
+    description: "Ranked second in the world in 2017 for Hyperloop pod competition."
+
+  - name: "Amazon Vision Project"
+    description: "Launched a project that resulted in $3M annual savings."
+
+certifications:
+  - name: "Bachelor's in Mechanical Engineering"
+    description: "Specialized in Mechatronics Engineering from Memorial University of Newfoundland."
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+
+  - language: "Urdu"
+    proficiency: "Native"
+
+interests:
+  - "Technology Innovation"
+  - "Robotics and Automation"
+  - "Space Exploration"
+
+availability:
+  notice_period: "2 weeks"
+
+salary_expectations:
+  salary_range_usd: "120000-160000"
+
+
+self_identification:
+  gender: "M"
+  pronouns: "He"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "South Asia"
 
 legal_authorization:
   eu_work_authorization: "No"
@@ -45,3 +142,6 @@ work_preferences:
   willing_to_complete_assessments: "Yes"
   willing_to_undergo_drug_tests: "Yes"
   willing_to_undergo_background_checks: "Yes"
+
+
+
